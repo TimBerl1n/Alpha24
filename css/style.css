@@ -376,7 +376,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 	margin-top: 43px;
 	height: 40px;
 	padding-left: 54px;
-	height: 40px;
+	gap: 5px;
 }
 .email__title {
 	font-family: 'Poppins', sans-serif;
@@ -397,7 +397,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 	margin-top: 33px;
 	height: 40px;
 	padding-left: 54px;
-	height: 40px;
+	gap: 5px;
 }
 .details__title {
 	font-family: 'Poppins', sans-serif;
@@ -422,7 +422,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 	margin-top: 99px;
 	height: 40px;
 	padding-left: 54px;
-	height: 40px;
+	display: flex;
+	gap: 5px;
 }
 .address-address__title {
 	font-family: 'Poppins', sans-serif;
