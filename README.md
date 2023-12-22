@@ -1,7 +1,8 @@
-Простой лендинг. Верстая его я использовал:
-• HTML
-• CSS
-• БЭМ
-• Flexbox
-• Адаптивную вёрстку
-Добавил в HTML-код Google-карту и залил проект на Github.
+A simple one-page website. When designing it I used:
+- HTML
+- CSS
+- BEM
+- Flexbox
+- Kit
+- Adaptive layout
+Added a Google map to the HTML code and uploaded the project to Github.
