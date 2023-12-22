@@ -5,4 +5,5 @@ A simple one-page website. When designing it I used:
 - Flexbox
 - Kit
 - Adaptive layout
+  
 Added a Google map to the HTML code and uploaded the project to Github.
